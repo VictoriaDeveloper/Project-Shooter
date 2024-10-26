@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Raul/Documents/GitHub/Project-Shooter/ProjectShooter/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Raul/Documents/GitHub/Project-Shooter/ProjectShooter/Content/Materials/M_Red.uasset",
+				"C:/Users/Raul/Documents/GitHub/Project-Shooter/ProjectShooter/Content/Materials/CylinderTarget_Blueprint.uasset",
+				"C:/Users/Raul/Documents/GitHub/Project-Shooter/ProjectShooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PT/A1N6VYMM0ZVVSBLRZ2QVHE.uasset",
+				"C:/Users/Raul/Documents/GitHub/Project-Shooter/ProjectShooter/Content/CylinderTarget_Blueprint.uasset",
+				"C:/Users/Raul/Documents/GitHub/Project-Shooter/ProjectShooter/Content/M_Red.uasset",
+				"C:/Users/Raul/Documents/GitHub/Project-Shooter/ProjectShooter/Content/FirstPerson/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/Raul/Documents/GitHub/Project-Shooter/ProjectShooter/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/Raul/Documents/GitHub/Project-Shooter/ProjectShooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Raul/Documents/GitHub/Project-Shooter/ProjectShooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/AF/EMWQLWKQK11G4WRZV5DJPD.uasset"
+			]
+		}
+	]
+}
